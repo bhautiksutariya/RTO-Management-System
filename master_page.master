@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="master_page.master.cs" Inherits="master_page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+    <link rel="Stylesheet" href="css/bootstrap.min.css" />
+    <link rel="Stylesheet" href="font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="headimage">
+        <a href="homepage.aspx">
+            <asp:Image ID="header" runat="server" ImageUrl="~/Image for rto/road transport web.jpg" Width="100%" Height="230px" />
+    </a>
+        <div class="headimage">
+        </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+    <script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+</html>

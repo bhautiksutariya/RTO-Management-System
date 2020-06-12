@@ -1,0 +1,178 @@
+﻿body {
+}
+.link
+{
+  text-decoration:none;
+  padding-left:915px ;
+}
+.buttoninimage
+{
+    margin-top:-80px;
+    border:2px solid black;
+}
+.welcome
+{
+    margin-top:-40px;
+    position:absolute;
+    float:right;
+    font-size:20px;
+    color:White;
+}
+.homepage_mer
+{
+   
+   font-size:25px;
+   height:30px   
+}
+.resizelogout
+{
+    margin-top:-70px;
+    width:170px;
+    height:60px;
+}
+.notshow
+{
+    color:White;
+}
+.table_rto_home
+{
+    
+    font-size:20px;
+   
+    
+    
+}
+
+.menu
+{
+   padding-left:100px  
+     
+}
+.gridpat
+{
+    
+    
+}
+
+.srch
+{
+    height:33px;
+    width:40%;
+    -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+
+.mar_text
+{
+    
+ 
+   font-size:17px;
+   padding:32px;
+   margin-left:-30px
+   ; color:#0489b1;
+   text-align:justify;  
+}
+span.welcomelink:hover
+{
+    color:Red;
+}
+
+.cbx_address    
+{
+    margin-left:450px;
+    
+}
+
+.statelbl
+{
+    margin-left:20px;
+}
+.state_dropdown
+{
+    margin-left:375px;
+}
+.state_dropdowncopy
+{
+    margin-left:165px;
+}
+.txt_dis
+{
+    margin-left:365px;
+    margin-top:10px;
+}
+.txt_discopy
+{
+    margin-left:165px;
+}
+.flat
+{
+    margin-left:20px;
+}
+.txt_flat
+{
+    margin-left:330px;
+}
+.txt_flatc
+{
+    margin-left:165px;
+}
+.lbl_housename
+{
+    margin-left:20px;
+}
+.txt_hname
+{
+    margin-left:301px;
+}
+.txt_hnamecopy
+{
+    margin-left:150px;
+}
+.lbl_hno
+{
+    margin-left:22px;
+}
+.txt_hnoc
+{
+    margin-left:222px;
+}
+.lbl_street
+{
+    margin-left:20px;
+}
+.txt_street
+{
+    margin-left:124px;
+}
+.lbl_locality
+{
+    margin-left:20px;
+}
+.txt_locality
+{
+    margin-left:370px;
+}
+.lbl_village
+{
+    margin-left:20px;
+}
+.txt_village
+{
+    margin-left:303px;
+}
+.lbl_taluka
+{
+    margin-left:20px;
+}
+.txt_taluka
+{
+    margin-left:325px;
+}
+.colorLL
+{
+    color: Blue;
+}
+.selectcity
+{
+    width:200px;
+}
